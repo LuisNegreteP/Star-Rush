@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/acer/Desktop/Programas/Videojuegos/Star Rush/Content/shotSound.mp3</SourceFile>
+  <SourceTime>2021-09-11T15:26:40.1959221-05:00</SourceTime>
+  <DestFile>C:/Users/acer/Desktop/Programas/Videojuegos/Star Rush/Content/bin/Windows/Content/shotSound.xnb</DestFile>
+  <DestTime>2021-09-11T15:27:04.2129218-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T10:35:54-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T10:35:54-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/acer/Desktop/Programas/Videojuegos/Star Rush/Content/bin/Windows/Content/shotSound.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

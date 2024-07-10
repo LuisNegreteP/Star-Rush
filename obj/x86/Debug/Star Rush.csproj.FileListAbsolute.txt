@@ -1,0 +1,33 @@
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\city.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Star Rush.exe
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Star Rush.pdb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\obj\x86\Debug\Star Rush.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\obj\x86\Debug\Star Rush.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\obj\x86\Debug\Star Rush.csproj.CopyComplete
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\obj\x86\Debug\Star Rush.exe
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\obj\x86\Debug\Star Rush.pdb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\falcon.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\shot.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\Kirby.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\background_2112.wma
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\background_2112.xnb
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\shot.wma
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\shotSound.wma
+C:\Users\acer\Desktop\Programas\Videojuegos\Star Rush\bin\Windows\x86\Debug\Content\shotSound.xnb
